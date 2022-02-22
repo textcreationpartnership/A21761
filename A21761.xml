@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the justices of peace, or cheef gentlemen of our parishes, and  all other officers, toward the furtherance of this good woorke</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1575</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21761</idno>
+            <idno type="STC">STC 8068</idno>
+            <idno type="STC">ESTC S3894</idno>
+            <idno type="EEBO-CITATION">33151143</idno>
+            <idno type="OCLC">ocm 33151143</idno>
+            <idno type="VID">28954</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28954)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:79)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the justices of peace, or cheef gentlemen of our parishes, and  all other officers, toward the furtherance of this good woorke</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By T. Purfoot?,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For 12-year collection to rebuild Colyton harbor.</note>
+                  <note>"Witnesse our self at Westminster the third daie of February, in the xvij. yere of our raigne."</note>
+                  <note>"Cum priuilegio Regiæ Maiestatis."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harbors --  Maintenance and repair --  Finance --  England.</term>
+               <term>Devon (England) --  History.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Broadsides --  London (England) --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28954:1"/>
+            <head>
+               <hi>To the Iuſtices of Peace, or cheef Gentlemen of our Pariſhes,</hi> and all other officers, toward the furtherance of this good woorke,</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">E</seg>Lizabeth by the grace of God, Queene of Englande, France, and Irelande, de<g ref="char:EOLhyphen"/>fender of the faithe &amp;c.</signed>
+               <salute>To all men to whom theſe preſentes ſhall come gretyng.</salute>
+            </opener>
+            <p>Where as in and adioinyng to our Countie of Deuon, there is betwene the Hauen of Exmouthe in the ſaied Coun<g ref="char:EOLhyphen"/>tie of Deuon, and our Cobbe of Lime <hi>Regis</hi> in our Countie of Dorcet, one Baie verie daunge<g ref="char:EOLhyphen"/>rous in tyme of Winter and Tempeſtes: In and nere whiche place in tymes paſte, hath been a good and ſafe Port and Hauen; called Culliton Hauen at Seaton, in our ſaid Countie of Deuon: as maie well appeare bothe by auncient writynges, and other euidence: and alſo by ſundrie An<g ref="char:EOLhyphen"/>chors and Shippe timber, daiely founde in the lande Meddowes, and Marſhes there about, as we are enformed. Whiche Hauen at that tyme was of greate vſe and commoditie, for the trade and traffique of Marchandize, for the benefite and relief of the Subiectes of this our Realme, for the profite of the Countrey adioynyng, for the maintenance of the Nauie, Fiſhermen, and Mariners, as well of our Proginitours, as of their Subiectes. And eſpecially hath been a greate ſuccour, and place of refuge, and ſafegard for ſhippes and men, arriuyng about the ſame coaſtes: and where by the decaie and ſtoppyng of the ſaied Hauen, and for lacke of ſuche a ſure place of arriuall in ſo greate a ſpace, and vpon ſo large and daungerous ſeas, greate number of Shippes, and bodies of Engliſhe Marchauntes, Paſſengers, Mariners, and other people, and alſo of ſundrie ſtraungers Marchauntes, and other beyng in amitie with vs, haue yerely been moſte lamentably caſte awaie and periſhed, and are like to bee caſte awaie and periſhe, if good remedie in that be<g ref="char:EOLhyphen"/>halfe be not prouided: All whiche matters together, with the greate importaunce, neceſſitie, and profite to this our Realme, that the Hauen there maie be repaired and reſtored, hath been certified vnto vs by the Iuſtices of Peace, and other Gentlemen, inhabityng within our ſaid Countie of Deuon. And where our louyng and faithfull Subiectes, the good men and inhabitauntes of our toune of Culliton, in our ſaied Countie of Deuon, haue not onely made their moſte humble ſuite to vs, that of our gracious goodneſſe and clemencie, it would pleaſe vs to prouide ſome conuenient meane, that the ſaied Hauen maie be new made, and repaired: But alſo haue offered to employe their trauailes, di<g ref="char:EOLhyphen"/>ligences, and expences of their goodes, to the vttermoſt of their habilities, for the performance of the ſaid good and charitable worke. And for that the finiſhyng thereof, farre ſurmounteth their power and ſubſtance, and the benefite is to growe thereby not to them ſelues alone, but to the whole bodie of our Realme and Subiectes, either tradyng the Seas, or hauyng commoditie and vſe of thynges caried out, or brought in by waie of Marchandiſe, and ſpecially to thoſe whoſe perſones of their frendes or goodes, maie by ſo good a Port be preſerued: Thei haue moſte humblie beſought vs to commende the ſame good laudable deede, and the charitable furtheraunce thereof, to the beneuo<g ref="char:EOLhyphen"/>lence of all our Subiectes, truſtyng that all good Chriſtian and Engliſhe perſones, will for common Charitie and loue to their Countrey, and the rather for our good commendation, the more liberally contribute, that the ſame maie be ſpeedely and ſubſtancially doen and perfor<g ref="char:EOLhyphen"/>med. Wee therefore tenderyng the ſaied humble petitions, and of our due and royall care for the preſeruation, defence, and aduauncement of this our Realme and Subiectes, eſteemyng no one thyng more neceſſarie then the encreaſe of the Nauie, Fiſhermen, and Marchauntes, whiche without good Portes and Hauens, can not bee ſuſtained: Of our ſpeciall grace, certaine knowledge, and mere motion, haue giuen and graunted, and by theſe our Letters Patentes, doe giue and graunte full licence, permiſſion and authoritie, to our welbeloued Subiec<g ref="char:EOLhyphen"/>tes Ihon Clarke, Walter Rawlin, inhabitantes of the ſaied Toune of Culliton, and Thomas Weſton, and Willyam Morris Marchan<g ref="char:EOLhyphen"/>tes of London, and euery of them, and to all and euery other perſone, that ſhalbe thereunto deputed and aſſigned by the ſaied Ihon Clarke, Walter Rawlin, Thomas Weſton, and Willyam Morris, or any of them, vnder their, or any of their hande writyng, to aſke and receiue of all perſones, as well Spirituall and Temporall, as alſo Engliſhe borne and ſtraungers, in all places within this our Realme of England, and all other our Dominions, the charitablt giftes and contributions, that it ſhall pleaſe any perſones to giue, to the newe makyng, repai<g ref="char:EOLhyphen"/>ryng, and mainteinyng of the ſaied Hauen, duryng the ſpace of xij. yeres now nexte enſuyng, and of our ſaied grace, we doe by theſe our pre<g ref="char:EOLhyphen"/>ſent letters Patentes, will, require, and ſtraightly commaunde all our Archbiſhoppes, and Biſhoppes, within this our Realme of England to whom theſe preſentes, or the exemplification thereof, vnder our greate Seale ſhall bee ſhewed, that thei, and euery of them in his ſeuerall Prouince and Dioces, doe at, and vpon the requeſt of the ſaied Ihon Clarke, Walter Rawlin, Thomas Weſton, and Willyam Morris, or one of them, not onely by their letters commende the claritable furtherance of the ſaied good woorke: but alſo the ſaied Biſhop ſhall conſti<g ref="char:EOLhyphen"/>tute and appoint ſuche, and ſo many truſtie perſones, as the ſaied Ihon Clarke, Walter Rawlin, Thomas Weſton, and Willyam Morris, or one of them ſhall name, and in ſuche limites, Dioceſſe, and iuriſdictions, as to them, and the ſaid Ihon Clarke, Walter Rawlin, Thomas Weſton, and Willyam Morris, or any of them ſhalbe thought beſt, duryng the ſaid terme of xij. yeres now next enſuyng, to aſke and gather the co<g ref="char:cmbAbbrStroke">̄</g>tributions, and giftes of all perſones in euery ſeuerall Churche and Pariſhe, towardes the makyng and repairyng of the ſaid Hauen.</p>
+            <p>And we will that the ſaied truſtie perſones, and euery of them ſo to be appointed, ſhall not onely aſke and collecte, as is aboueſaied: but alſo ſhall yerely, duryng the ſaied tearme, within xiiii. daies after euery of the ſeuerall feaſtes of the Annunciation of S. Marie the virgine, and of S. Michaell the Archangell, deliuer, or cauſe to be deliuered in our Citie of London, to the handes of the ſaied Thomas Weſton, and Willyam Morris Marchantes there, or to one of them, or to ſuche other perſone or perſones, as by ſuche Biſhop or Archbiſhop ſhalbe ap<g ref="char:EOLhyphen"/>pointed, and to ſuche Collector ſo ſignified, with thaſſent of the ſaid Ihon Clarke, Walter Rawlin, Thomas Weſton, and Willyam Morris or one of them, ſo muche money as thei, or any of them, ſhall then haue collected, in forme aforeſaid together, with a true note and certificat of the ſeuerall names of ſuche contributers, and the ſeuerall ſummes that thei ſhall ſo contribute, and their dwellyng places, takyng and de<g ref="char:EOLhyphen"/>ductyng to the ſaid Collectors, for the portage of the ſaid ſummes, according to the vſuall allowance, vpon paunentes made to our vſe. And we doe doe by theſe our preſent Letters Patentes, ſtraightly charge and commaunde, and therewith alſo to appoint, and authoriſe the ſaied Thomas Weſton, and Willyam Morris, and either of them, and all and euery other perſone, to whoſe handes any of the ſaied Collectours ſhall paie any of the ſaied ſummes, in forme aforeſaied, that ſuche ſummes ſo to them to be paied, thei doe with all conuenient ſpeede paie, or cauſe to bee paied ouer to the handes of our right welbeloued Subiectes, ſir Gawen Carewe knight, ſir Ihon Moore knight, ſir Robert Denis knight, ſir Humfrey Gilbert knight, Bernarde Drake Eſquire, and Ihon Clarke, and Walter Rawlin, inhabitantes of our ſaied Toune of Colliton, or to ſome one of them: whiche ſaied Gawen, Ihon, Robert, Humfrey, Barnard, Ihon, and Walter, or any fower of the<g ref="char:cmbAbbrStroke">̄</g>, whereof we will alwaie ſome of the knightes aforeſaied to be twoo, wee ſhall by our letters appoint to ouerſee, and directe the ſaied woor<g ref="char:EOLhyphen"/>kes, and paie the workmen about the ſaid Hauen, and once euery halfe yere to aduertiſe vs, or our priuie Counſell what ſhall haue been doen in the premiſſes. And we further will and commaunde all Parſones, Vicars, Curates, Eccleſiaſticall Miniſters, and Churchwardens, that thei doe their beſte indeuours, for the augmentation of the beneuolence, and contribution of charitable perſones toward the ſaied worke, bothe by the declaryng of the entent of our pleaſure herein expreſſed, with the conſiderations here mentioned that haue vs moued, the bene<g ref="char:EOLhyphen"/>fite that ſhall thereby growe to the commonweale, and the preſeruation of our Subiectes, and by exhortyng their Pariſhioners and Audi<g ref="char:EOLhyphen"/>tors to be liberall in ſuche contribution, and alſo by aduiſyng and puttyng in minde of wealthy perſones in tyme of ſickneſſe, to further the ſaid workes, by waie of their giftes &amp; legacies, in their laſt willes and teſtamentes. And out pleaſure is that the ſaid Hauen beyng made and finiſhed, that then the inhabitantes of the ſaid toune of Colliton, ſhall haue the preferment &amp; preheminence, to ſue for the obtainyng of a cor<g ref="char:EOLhyphen"/>poration, for the maintenance of the ſaid Hauen, before any other Toune within the ſaid Countie of Deuon. In witneſſe whereof, we haue cauſed theſe our Letters to be made Pattens.</p>
+            <closer>
+               <dateline>Witneſſe our ſelf at Weſtminſter <date>the third daie of February, in the xvij. yere of our raigne.</date>
+               </dateline> God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <p>Here is to be noted, that theſe Letters Patentes are to be laied vp, and kept fom yere to yere, vntill the yeres herein mentioned bee ex<g ref="char:EOLhyphen"/>ſpired. And once euery yere to be read in your Pariſhe Churche, and that when the Biſhop or Archdeacon ſhall commaunde the ſame, or the Collectour.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
